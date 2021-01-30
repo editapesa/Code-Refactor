@@ -6,4 +6,3 @@ The objective was to make the website more accessible and optimize search engine
 
 Website: (url)
 
-(screenshot of website)
