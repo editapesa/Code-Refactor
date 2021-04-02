@@ -4,5 +4,5 @@ Horiseon is a marketing company that will help bring customers to companies.  Th
 
 The objective was to make the website more accessible and optimize search engines.  This was achieved by changing html semantics and adding main, section, article, and aside.
 
-[Website] https://editapesa.github.io/homework-1/
+[Website] https://editapesa.github.io/Code-Refactor/
 
